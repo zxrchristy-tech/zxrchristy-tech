@@ -82,13 +82,13 @@
 </td>
 </tr>
 <tr>
-<td align="center">2022.12 → 2023.03</td>
+<td align="center">2022.07 → 2022.10</td>
 <td>
 <b>📕 小红书 · 创新业务部</b> — <i>HR 实习生</i>
 <br>
-<sub>✦ 简历获取，日均 35+，累计 1000+ · 正式 offer 5+ · 实习生 offer 40+</sub>
+<sub>✦ 简历获取，日均 35+，累计 1000+</sub>
 <br>
-<sub>✦ 安排面试跟进，产出正式 offer 20+、实习生 offer 50+</sub>
+<sub>✦ 安排面试跟进，产出正式 offer 5+、实习生 offer 40+</sub>
 </td>
 </tr>
 <tr>
