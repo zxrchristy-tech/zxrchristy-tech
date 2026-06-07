@@ -11,6 +11,7 @@
 <p align="center">
   <a href="mailto:2374413025@qq.com"><img src="https://img.shields.io/badge/📧%20Email-2374413025@qq.com-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333" /></a>
   <a href="tel:13403469358"><img src="https://img.shields.io/badge/📱%20Phone-13403469358-FF8C42?style=for-the-badge&logo=phone&logoColor=white&labelColor=333" /></a>
+  <a href="https://zxrchristy-tech.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/📂%20作品集-View-FAA916?style=for-the-badge&logo=github&logoColor=white&labelColor=333" /></a>
 </p>
 
 <p align="center">
@@ -63,7 +64,7 @@
 <tr>
 <td align="center">2025.10 → 2026.04</td>
 <td>
-<b>🌍 国家能源集团 · 龙源电力南非分公司</b> — <i>国际传播实习生（驻开普敦）</i>
+<b>🌍 国家能源集团 · 龙源电力南非分公司</b> — <i>国际传播实习生（国家公派 · 驻开普敦）</i>
 <br>
 <sub>✦ 独立策划执行元宵节庙会等跨文化交流活动</sub>
 <br>
@@ -78,6 +79,16 @@
 <sub>✦ 独立负责 Anker、Realme、Trip.com 等头部出海品牌调研，产出洞察报告 <b>5 份</b></sub>
 <br>
 <sub>✦ 覆盖 TikTok/Instagram/YouTube 社媒生态与 KOL 矩阵分析</sub>
+</td>
+</tr>
+<tr>
+<td align="center">2022.12 → 2023.03</td>
+<td>
+<b>📕 小红书 · 创新业务部</b> — <i>HR 实习生</i>
+<br>
+<sub>✦ 简历获取，日均 35+，累计 1000+ · 正式 offer 5+ · 实习生 offer 40+</sub>
+<br>
+<sub>✦ 安排面试跟进，产出正式 offer 20+、实习生 offer 50+</sub>
 </td>
 </tr>
 <tr>
@@ -199,6 +210,27 @@
 **荣誉奖项：** 校二等奖学金 · 优秀团员 · 优秀团干部 · 优秀志愿者
 
 <!-- ==================== 底部 ==================== -->
+
+<br>
+
+## 🎾 生活剪影
+
+<p align="center">
+  <img src="https://zxrchristy-tech.github.io/portfolio/photo1.jpg" width="180" style="border-radius:12px;margin:4px;" />
+  <img src="https://zxrchristy-tech.github.io/portfolio/photo2.jpg" width="180" style="border-radius:12px;margin:4px;" />
+  <img src="https://zxrchristy-tech.github.io/portfolio/photo3.jpg" width="180" style="border-radius:12px;margin:4px;" />
+  <br>
+  <img src="https://zxrchristy-tech.github.io/portfolio/photo4.jpg" width="275" style="border-radius:12px;margin:4px;" />
+  <img src="https://zxrchristy-tech.github.io/portfolio/photo5.jpg" width="275" style="border-radius:12px;margin:4px;" />
+</p>
+
+## ❤️ 为什么想加入小红书
+
+乐观积极，喜欢"整活"，热衷于将天马行空的想法落地  
+第一段实习就在小红书，最爱的公司氛围和文化  
+🎾 网球 · 🥾 徒步 · 🥁 架子鼓 · 🏊 游泳  
+💄 美妆护肤 · 🥗 养生  
+**非常希望能够再进到小红书 ❤️**
 
 <br>
 <div align="center">
